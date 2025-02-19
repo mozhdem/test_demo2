@@ -1,2 +1,0 @@
-# initilaize 
-g
